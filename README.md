@@ -122,7 +122,7 @@
 
 **Windows一键安装方案**
 
-https://github.com/super1207/install_llob/releases 下载 exe，双击运行即可，之后打开 QQ 的设置，看到了 `LLOneBot` 就代表安装成功了。**QQ版本不要选太老，建议9.9.15 28260**
+https://github.com/super1207/install_llob/releases 下载 exe，双击运行即可，之后打开 QQ 的设置，看到了`LLOneBot`就代表安装成功了。**QQ版本不要选太老，建议9.9.15 28260**
 
 **对接NoneBot**
 
@@ -140,9 +140,11 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 
 </div>
 
-在 `LLOneBot` 配置页面添加反向 WS 地址，地址为 `ws://127.0.0.1:8080/onebot/v11/ws`, 这里的 `8080` 是 NoneBot 输出的端口号，`/onebot/v11/ws` 是 NoneBot onebot 适配器默认的路径
+在**LLOneBot**配置页面添加反向 WS 地址，地址为`ws://127.0.0.1:8080/onebot/v11/ws`, 这里的`8080`是 NoneBot 输出的端口号,`/onebot/v11/ws`是 NoneBot onebot 适配器默认的路径
 
-    
+**TIP**
+
+**记得 LLOneBot 配置的 token 需要和 NoneBot 配置的一致**
     
 
     
