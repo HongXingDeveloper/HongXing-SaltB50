@@ -6,7 +6,7 @@
 <img src="https://github.com/user-attachments/assets/fd09a031-736e-4569-91e1-8776966c8b4a" width="200">
 </div>
 
-# HongXing Salt B50(原 HX-SaltBot)
+# HongXing Salt B50(原 HX-Salt Bot)
 
 <p style="text-align:center"><del>主打一个能跑就行的机器人</del></p> 
 
