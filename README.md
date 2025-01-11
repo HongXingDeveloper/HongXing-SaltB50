@@ -1,5 +1,6 @@
 
-### 注意：此机器人由NoneBot框架，nonebot-plugin-maimaidx，Gensokyo，LLOneBot，QQ官方接口构成（该项目较为复杂，请酌情使用）
+>[!NOTE]
+>此机器人由NoneBot框架，nonebot-plugin-maimaidx，Gensokyo，LLOneBot，QQ官方接口构成（该项目较为复杂，请酌情使用）
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/fd09a031-736e-4569-91e1-8776966c8b4a" width="200">
