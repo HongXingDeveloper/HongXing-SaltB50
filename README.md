@@ -145,9 +145,8 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 
 在**LLOneBot**配置页面添加反向 WS 地址，地址为`ws://127.0.0.1:8080/onebot/v11/ws`, 这里的`8080`是 NoneBot 输出的端口号,`/onebot/v11/ws`是 NoneBot onebot 适配器默认的路径
 
-**TIP**
-
-**记得 LLOneBot 配置的 token 需要和 NoneBot 配置的一致**
+>[!NOTE]
+>记得 LLOneBot 配置的 token 需要和 NoneBot 配置的一致
 
 ## 目前你的NoneBot与LLOneBot是接入的，先不要急着接入Gensokyo，让我们安装nonebot-plugin-maimaidx
 
