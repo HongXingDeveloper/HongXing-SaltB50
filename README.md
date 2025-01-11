@@ -116,7 +116,7 @@
 
 **此过程为：Nonebot-plugin-maimaidx接入Nonebot Nonebot接入LLonebot LLonebot WS反代接入Gensokyo Gensokyo接入QQ官方接口**
 
-### 1.LLOneBot接入：
+## 1.LLOneBot接入：
 
 **LLOneBot的官方文档 https://llonebot.github.io/zh-CN/guide/getting-started**
 
@@ -160,15 +160,7 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
         ``` python
         nb plugin install nonebot-plugin-maimaidx
         ```
-   - 使用 `pip` 安装
-        ``` python
-        pip install nonebot-plugin-maimaidx
-        ```
-   - 使用源代码（不推荐） **需自行安装额外依赖**
-        ``` git
-        git clone https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx
-        ```
-
+   
 2. 安装 `PhantomJS`，前往 https://phantomjs.org/download.html 下载对应平台支持
 
 > [!WARNING]
@@ -212,6 +204,16 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 ![img](https://raw.githubusercontent.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/master/nonebot_plugin_maimaidx/maimaidxhelp.png)
 
 ## 顺便说一下：如果插件/框架开发者认为我抄袭了可以联系我)
+
+## 当然这个插件只对OneBot有用，反而在QQ官方就歇菜了，所以需要接入Gensokyo来模拟OneBot
+
+**省流：有点BUG但不多**
+
+**接入的思路在https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/issues/53**
+
+## 部署并接入Gensokyo （感觉像个中转站）
+
+
 
 
 
