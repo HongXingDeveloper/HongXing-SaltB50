@@ -7,9 +7,9 @@
 </div>
 
 
-<center><del>主打一个能跑就行的机器人</del></center>  
-<br \>
-<big>前提准备：Python≥3.9 官网地址：https://www.python.org/downloads/ ** </big>   
+<p style="text-align:center"><del>主打一个能跑就行的机器人</del></center>  
+
+<big>前提准备：Python≥3.9 官网地址：https://www.python.org/downloads/  </big>   
 
 ------------------------------------------------------------------
 ## 1. 下载并安装Python:
