@@ -203,9 +203,9 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 
 ## 指令
 
-          <div align="center">
-          <img src="https://raw.githubusercontent.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/master/nonebot_plugin_maimaidx/maimaidxhelp.png" width="500">
-          </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/master/nonebot_plugin_maimaidx/maimaidxhelp.png" width="500">
+</div>
 
 ## 顺便说一下：如果插件/框架开发者认为我抄袭了可以联系我)
 
