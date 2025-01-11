@@ -48,7 +48,8 @@
     python -m pip install --user pipx
     python -m pipx ensurepath
 
-**如果在此步骤的输出中出现了“open a new terminal”或者“re-login”字样，那么请关闭当前终端并重新打开一个新的终端。**
+>[!WARNING]
+>如果在此步骤的输出中出现了“open a new terminal”或者“re-login”字样，那么请关闭当前终端并重新打开一个新的终端。
 
 **（2）安装脚手架x2**
 
