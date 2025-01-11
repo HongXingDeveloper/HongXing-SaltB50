@@ -116,6 +116,32 @@
 
 **此过程为：Nonebot-plugin-maimaidx接入Nonebot Nonebot接入LLonebot LLonebot WS反代接入Gensokyo Gensokyo接入QQ官方接口**
 
+### 1.LLOneBot接入：
+
+根据LLOneBot给出的官方文档 https://llonebot.github.io/zh-CN/guide/getting-started 得知
+
+**Windows一键安装方案**
+
+https://github.com/super1207/install_llob/releases 下载 exe，双击运行即可，之后打开 QQ 的设置，看到了 `LLOneBot` 就代表安装成功了。**QQ版本不要选太老，建议9.9.15 28260**
+
+**对接NoneBot**
+
+**（1）配置NoneBot**
+
+这里假设你已经安装了Onebot适配器
+
+然后启用NoneBot，可以看到NoneBot输出的端口号，如`8080`
+
+**(2)配置LLOneBot**
+
+<div align="center">
+
+<img src="https://llonebot.github.io/assets/llonebot-nonebot-rws-setting.DTJGh4Lz.png" width="500">
+
+</div>
+
+在 `LLOneBot` 配置页面添加反向 WS 地址，地址为 `ws://127.0.0.1:8080/onebot/v11/ws`, 这里的 `8080` 是 NoneBot 输出的端口号，`/onebot/v11/ws` 是 NoneBot onebot 适配器默认的路径
+
     
     
 
