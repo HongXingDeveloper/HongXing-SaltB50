@@ -107,7 +107,8 @@
 
 在项目运行起来后，`Console` 适配器会在你的终端启动交互模式，你可以直接在输入框中输入 `/echo hello world` 来测试你的机器人是否正常运行。
 
-**若没有显示，很可能是`Console`适配器未装上 请输入**
+>[!NOTE]
+>若没有显示，很可能是`Console`适配器未装上 请输入
     
     nb adapter install nonebot-adapter-console
 
