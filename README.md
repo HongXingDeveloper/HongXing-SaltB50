@@ -217,6 +217,8 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 
 ## 部署并接入Gensokyo （感觉像个中转站）
 
+**Gensokyo官方文档https://github.com/Hoshinonyaruko/Gensokyo**
+
 
 
 
