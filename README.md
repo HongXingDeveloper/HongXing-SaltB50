@@ -110,7 +110,7 @@
 
 **Windows一键安装方案**
 
-https://github.com/super1207/install_llob/releases 下载 exe，双击运行即可，之后打开 QQ 的设置，看到了`LLOneBot`就代表安装成功了。**QQ版本不要选太老，建议9.9.15 28260**
+https://github.com/super1207/install_llob/releases 下载 exe，双击运行即可，之后打开 QQ 的设置，看到了`LLOneBot`就代表安装成功了。**QQ版本不要选太老，建议9.9.15 28260。如需降级请前往https://www.wandoujia.com/apps/566489/history**
 
 **对接NoneBot**
 
