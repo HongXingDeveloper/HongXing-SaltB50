@@ -160,11 +160,12 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 ## 配置
    
 1. 下载静态资源文件，将该压缩文件解压，且解压完为文件夹 `static`
+   PS.国内用户请选择第一个链接，如选择第二链接，请自备科学上网；If you are a foreign user, please  use the hyperlink of Onedrive. :)
 
     - [私人云盘](https://share.yuzuchan.moe/d/aria/Resource.zip?sign=LOqwqDVm95dYnkEDYKX2E-VGj0xc_JxrsFnuR1BcvtI=:0)
     - [onedrive](https://yuzuai-my.sharepoint.com/:u:/g/personal/yuzuchan_yuzuai_onmicrosoft_com/EaS3jPYdMwxGiU3V_V64nRIBk6QA5Gdhs2TkJQ2bLssxbw?e=Mm6cWY)
 
-2. 在 `.env` 文件中配置静态文件绝对路径 `MAIMAIDXPATH`
+3. 在 `.env` 文件中配置静态文件绝对路径 `MAIMAIDXPATH`
 
     ``` dotenv
     MAIMAIDXPATH=path.to.static
@@ -175,7 +176,7 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
     MAIMAIDXPATH=/root/static
     ```
 
-3. 在 `.env` 文件夹中配置 `MAIMAIDXTOKEN`
+4. 在 `.env` 文件夹中配置 `MAIMAIDXTOKEN`
    
     ``` dotenv
     # 如果没有 `diving-fish 查分器` 的开发者 `Token`，请直接留空
