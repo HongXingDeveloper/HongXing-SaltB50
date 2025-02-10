@@ -1,6 +1,6 @@
 
 >[!NOTE]
->此机器人由NoneBot框架，nonebot-plugin-maimaidx，Gensokyo，LLOneBot，QQ官方接口构成（该项目较为复杂，请酌情使用）
+>此机器人由NoneBot框架，nonebot-plugin-maimaidx，*****，*****，QQ官方接口构成（该项目较为复杂，请酌情使用）
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/fd09a031-736e-4569-91e1-8776966c8b4a" width="200">
@@ -102,36 +102,9 @@
 ---------------------------------------------------------------------------
 ## 下载Gensokyo，Nonebot-plugin-maimaidx，LLonebot （进阶）
 
-**此过程为：Nonebot-plugin-maimaidx接入Nonebot Nonebot接入LLonebot LLonebot WS反代接入Gensokyo Gensokyo接入QQ官方接口**
-
 ## 1.LLOneBot接入：
 
-**LLOneBot的官方文档 https://llonebot.github.io/zh-CN/guide/getting-started**
-
-**Windows一键安装方案**
-
-https://github.com/super1207/install_llob/releases 下载 exe，双击运行即可，之后打开 QQ 的设置，看到了`LLOneBot`就代表安装成功了。**QQ版本不要选太老，建议9.9.15 28260。如需降级请前往https://www.wandoujia.com/apps/566489/history**
-
-**对接NoneBot**
-
-**(1)配置NoneBot**
-
-这里假设你已经安装了Onebot适配器
-
-然后启用NoneBot，可以看到NoneBot输出的端口号，如`8080`
-
-**(2)配置LLOneBot**
-
-<div align="center">
-
-<img src="https://llonebot.github.io/assets/llonebot-nonebot-rws-setting.DTJGh4Lz.png" width="500">
-
-</div>
-
-在**LLOneBot**配置页面添加反向 WS 地址，地址为`ws://127.0.0.1:8080/onebot/v11/ws`, 这里的`8080`是 NoneBot 输出的端口号,`/onebot/v11/ws`是 NoneBot onebot 适配器默认的路径
-
->[!NOTE]
->记得 LLOneBot 配置的 token 需要和 NoneBot 配置的一致
+## 由于特殊原因，Gensokyo LLONeBot步骤暂不开放，敬请谅解
 
 ## 目前你的NoneBot与LLOneBot是接入的，先不要急着接入Gensokyo，让我们安装nonebot-plugin-maimaidx
 
@@ -197,27 +170,23 @@ https://github.com/super1207/install_llob/releases 下载 exe，双击运行即�
 <img src="https://raw.githubusercontent.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/master/nonebot_plugin_maimaidx/maimaidxhelp.png" width="500">
 </div>
 
-## 顺便说一下：如果插件/框架开发者认为我抄袭了可以联系我)
-
-## 当然这个插件只对OneBot有用，反而在QQ官方就歇菜了，所以需要接入Gensokyo来模拟OneBot
 
 **省流：有点BUG但不多**
 
 **接入的思路在https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/issues/53**
 
-## 部署并接入Gensokyo （感觉像个中转站）
+<p style="text-align:center"><del>其实写到这就想不起来要写啥了</del></p> 
 
-**Gensokyo官方文档https://github.com/Hoshinonyaruko/Gensokyo**
-
-
-
-
+<div align="center">
+          <img src="https://github.com/user-attachments/assets/8c34d6ff-a7ec-4562-be41-81e2d8d2a610" width="500">
+          </div>
 
 
     
 
     
          
+
 
 
 
