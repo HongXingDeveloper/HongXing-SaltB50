@@ -106,7 +106,7 @@
 
 ## 由于特殊原因，Gensokyo LLONeBot步骤暂不开放，敬请谅解
 
-## 目前你的NoneBot与LLOneBot是接入的，先不要急着接入Gensokyo，让我们安装nonebot-plugin-maimaidx
+目前你的NoneBot与LLOneBot是接入的，先不要急着接入Gensokyo，让我们安装nonebot-plugin-maimaidx
 
 ## 部署 nonebot-plugin-maimaidx
 
@@ -181,6 +181,7 @@
           <img src="https://github.com/user-attachments/assets/8c34d6ff-a7ec-4562-be41-81e2d8d2a610" width="500">
           </div>
 
+---
 
     
 
