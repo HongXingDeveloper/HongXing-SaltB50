@@ -188,12 +188,12 @@
 <div align="center">
 
 <!-- 贡献者1 -->
-<img src="https://avatars.githubusercontent.com/ecomter" width="100" height="100" alt="ecomter头像">
+<img src="https://hongxingos.top/wp-content/uploads/2024/12/b_0891f6f22a289ab07dee1e21dca29091.jpg" width="100" height="100" alt="ecomter头像">
 <br>
 <strong>ecomter</strong>
 
 <!-- 贡献者2 -->
-<img src="https://avatars.githubusercontent.com/HZK081222" width="100" height="100" alt="HZK081222头像">
+<img src="https://hongxingos.top/wp-content/uploads/2025/03/Image_274483758688885.jpg" width="100" height="100" alt="HZK081222头像">
 <br>
 <strong>HZK081222</strong>
 
