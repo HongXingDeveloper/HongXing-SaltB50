@@ -210,7 +210,7 @@
 
 <span style="display: inline-block; margin: 0 30px;">
   <a href="https://github.com/HongXing-Developer">
-    <img src="https://avatars.githubusercontent.com/HongXing-Developer" 
+    <img src="https://avatars.githubusercontent.com/HongXingDeveloper" 
          width="100" 
          height="100" 
          style="border-radius: 50%;object-fit: cover;">
@@ -222,12 +222,12 @@
 </div>
 
 <span style="display: inline-block; margin: 0 30px;">
-+  <!-- 可添加垂直间距 -->
-+  <div style="margin-bottom: 20px;"> 
+   <!-- 可添加垂直间距 -->
+   <div style="margin-bottom: 20px;"> 
     <a href="...">
       ...
     </a>
-+  </div>
+   </div>
 </span>
 
     
