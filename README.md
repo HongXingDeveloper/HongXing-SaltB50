@@ -183,19 +183,43 @@
 
 ------
 
-以下是此项目的贡献者，以表示敬意：
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap">
 
-<div align="center">
-
-<!-- 贡献者1 -->
-<img src="https://hongxingos.top/wp-content/uploads/2024/12/b_0891f6f22a289ab07dee1e21dca29091.jpg" width="100" height="100" alt="ecomter头像">
+<!-- ecomter -->
+<div>
+<a href="https://github.com/ecomter">
+<img src="https://avatars.githubusercontent.com/ecomter" 
+width="100" 
+height="100" 
+style="border-radius: 50%;object-fit: cover">
+</a>
 <br>
 <strong>ecomter</strong>
+</div>
 
-<!-- 贡献者2 -->
-<img src="https://hongxingos.top/wp-content/uploads/2025/03/Image_274483758688885.jpg" width="100" height="100" alt="HZK081222头像">
+<!-- HZK081222 -->
+<div>
+<a href="https://github.com/HZK081222">
+<img src="https://avatars.githubusercontent.com/HZK081222" 
+width="100" 
+height="100" 
+style="border-radius: 50%;object-fit: cover">
+</a>
 <br>
 <strong>HZK081222</strong>
+</div>
+
+<!-- HongXing Developer -->
+<div>
+<a href="https://github.com/HongXing-Developer">
+<img src="https://avatars.githubusercontent.com/HongXing-Developer" 
+width="100" 
+height="100" 
+style="border-radius: 50%;object-fit: cover">
+</a>
+<br>
+<strong>HongXing Developer</strong>
+</div>
 
 </div>
 
