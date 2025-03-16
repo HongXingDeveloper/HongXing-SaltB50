@@ -212,7 +212,7 @@ style="border-radius: 50%;object-fit: cover">
 <!-- HongXing Developer -->
 <div>
 <a href="https://github.com/HongXing-Developer">
-<img src="https://avatars.githubusercontent.com/HongXing-Developer" 
+<img src="https://avatars.githubusercontent.com/HongXingDeveloper" 
 width="100" 
 height="100" 
 style="border-radius: 50%;object-fit: cover">
