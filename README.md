@@ -183,45 +183,52 @@
 
 ------
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap">
+<div align="center">
 
-<!-- ecomter -->
-<div>
-<a href="https://github.com/ecomter">
-<img src="https://avatars.githubusercontent.com/ecomter" 
-width="100" 
-height="100" 
-style="border-radius: 50%;object-fit: cover">
-</a>
-<br>
-<strong>ecomter</strong>
-</div>
+<!-- 贡献者容器 -->
+<span style="display: inline-block; margin: 0 30px;">
+  <a href="https://github.com/ecomter">
+    <img src="https://avatars.githubusercontent.com/ecomter" 
+         width="100" 
+         height="100" 
+         style="border-radius: 50%;object-fit: cover;">
+    <br>
+    <strong>ecomter</strong>
+  </a>
+</span>
 
-<!-- HZK081222 -->
-<div>
-<a href="https://github.com/HZK081222">
-<img src="https://avatars.githubusercontent.com/HZK081222" 
-width="100" 
-height="100" 
-style="border-radius: 50%;object-fit: cover">
-</a>
-<br>
-<strong>HZK081222</strong>
-</div>
+<span style="display: inline-block; margin: 0 30px;">
+  <a href="https://github.com/HZK081222">
+    <img src="https://avatars.githubusercontent.com/HZK081222" 
+         width="100" 
+         height="100" 
+         style="border-radius: 50%;object-fit: cover;">
+    <br>
+    <strong>HZK081222</strong>
+  </a>
+</span>
 
-<!-- HongXing Developer -->
-<div>
-<a href="https://github.com/HongXing-Developer">
-<img src="https://avatars.githubusercontent.com/HongXingDeveloper" 
-width="100" 
-height="100" 
-style="border-radius: 50%;object-fit: cover">
-</a>
-<br>
-<strong>HongXing Developer</strong>
-</div>
+<span style="display: inline-block; margin: 0 30px;">
+  <a href="https://github.com/HongXing-Developer">
+    <img src="https://avatars.githubusercontent.com/HongXing-Developer" 
+         width="100" 
+         height="100" 
+         style="border-radius: 50%;object-fit: cover;">
+    <br>
+    <strong>HongXing Developer</strong>
+  </a>
+</span>
 
 </div>
+
+<span style="display: inline-block; margin: 0 30px;">
++  <!-- 可添加垂直间距 -->
++  <div style="margin-bottom: 20px;"> 
+    <a href="...">
+      ...
+    </a>
++  </div>
+</span>
 
     
 
