@@ -178,7 +178,7 @@
 <p style="text-align:center"><del>其实写到这就想不起来要写啥了</del></p> 
 
 <div align="center">
-          <img src="https://github.com/user-attachments/assets/8c34d6ff-a7ec-4562-be41-81e2d8d2a610" width="500">
+          <img src="https://github.com/user-attachments/assets/8c34d6ff-a7ec-4562-be41-81e2d8d2a610" width="200">
           </div>
 
 ------
@@ -199,7 +199,7 @@
 
 <span style="display: inline-block; margin: 0 30px;">
   <a href="https://github.com/HZK081222">
-    <img src="https://avatars.githubusercontent.com/HZK081222" 
+    <img src="https://avatars.githubusercontent.com/HZK08122" 
          width="100" 
          height="100" 
          style="border-radius: 50%;object-fit: cover;">
