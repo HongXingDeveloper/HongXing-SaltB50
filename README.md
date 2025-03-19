@@ -178,59 +178,50 @@
 <p style="text-align:center"><del>其实写到这就想不起来要写啥了</del></p> 
 
 <div align="center">
-          <img src="https://github.com/user-attachments/assets/8c34d6ff-a7ec-4562-be41-81e2d8d2a610" width="200">
+          <img src="https://github.com/user-attachments/assets/8c34d6ff-a7ec-4562-be41-81e2d8d2a610" width="500">
           </div>
 
-------
+---
 
 <div align="center">
 
-<!-- 贡献者容器 -->
-<span style="display: inline-block; margin: 0 30px;">
-  <a href="https://github.com/ecomter">
+<!-- ecomter -->
+<div style="margin-bottom: 30px;">
+  <a href="https://github.com/ecomter" target="_blank">
     <img src="https://avatars.githubusercontent.com/ecomter" 
          width="100" 
-         height="100" 
-         style="border-radius: 50%;object-fit: cover;">
+         height="100"
+         style="border-radius: 50%; object-fit: cover;">
     <br>
     <strong>ecomter</strong>
   </a>
-</span>
+</div>
 
-<span style="display: inline-block; margin: 0 30px;">
-  <a href="https://github.com/HZK081222">
-    <img src="https://avatars.githubusercontent.com/HZK08122" 
+<!-- HZK081222 -->
+<div style="margin-bottom: 30px;">
+  <a href="https://github.com/HZK081222" target="_blank">
+    <img src="https://avatars.githubusercontent.com/HZK081222" 
          width="100" 
-         height="100" 
-         style="border-radius: 50%;object-fit: cover;">
+         height="100"
+         style="border-radius: 50%; object-fit: cover;">
     <br>
     <strong>HZK081222</strong>
   </a>
-</span>
-
-<span style="display: inline-block; margin: 0 30px;">
-  <a href="https://github.com/HongXing-Developer">
-    <img src="https://avatars.githubusercontent.com/HongXingDeveloper" 
-         width="100" 
-         height="100" 
-         style="border-radius: 50%;object-fit: cover;">
-    <br>
-    <strong>HongXing Developer</strong>
-  </a>
-</span>
-
 </div>
 
-<span style="display: inline-block; margin: 0 30px;">
-   <!-- 可添加垂直间距 -->
-   <div style="margin-bottom: 20px;"> 
-    <a href="...">
-      ...
-    </a>
-   </div>
-</span>
+<!-- HongXingDeveloper -->
+<div>
+  <a href="https://github.com/HongXingDeveloper" target="_blank">
+    <img src="https://avatars.githubusercontent.com/HongXingDeveloper" 
+         width="100" 
+         height="100"
+         style="border-radius: 50%; object-fit: cover;">
+    <br>
+    <strong>HongXingDeveloper</strong>
+  </a>
+</div>
 
-    
+</div>
 
     
          
