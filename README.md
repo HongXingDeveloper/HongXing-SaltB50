@@ -106,8 +106,7 @@
 
 ## 由于特殊原因，Gensokyo LLONeBot步骤暂不开放，敬请谅解
 
-目前你的NoneBot与LLOneBot是接入的，先不要急着接入Gensokyo，让我们安装nonebot-plugin-maimaidx
-
+目前你需要部署好LLONeBot，Gensokyo和NoneBot
 ## 部署 nonebot-plugin-maimaidx
 
 **nonebot-plugin-maimaidx的官方文档：https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx**
